@@ -175,7 +175,7 @@ h8 {
 
 .pipe {
 	background-position: right; 
-	background-image: url("/nature-lab/images/pipe.png");
+	background-image: url('/nature-lab/images/pipe.png');
 	background-repeat: no-repeat;
 	background-size: contain; 
 	height: 50vh; 
