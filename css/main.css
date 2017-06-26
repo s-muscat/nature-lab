@@ -541,7 +541,7 @@ img.water-header {
     background: -webkit-linear-gradient(#272A5E, #a1a1a1); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#272A5E, #a1a1a1); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#272A5E, #a1a1a1); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#272A5E,#B3E8E8, #272A5E, #a1a1a1); /* Standard syntax (must be last) */
+    background: linear-gradient(#272A5E,#B3E8E8, #a1a1a1, #a1a1a1); /* Standard syntax (must be last) */
 }
 
 
