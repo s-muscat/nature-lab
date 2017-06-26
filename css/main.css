@@ -295,7 +295,7 @@ div.purple{
 }
 
 .overviewheader {
-	background-image: url(Images/overview.jpg);
+	background-image: url('/nature-lab/images/overview.jpg');
 	background-size: cover; 
 	margin-top: 0px; 
 	height: 55vw;
@@ -303,7 +303,7 @@ div.purple{
 
 
 .projectheader {
-	background-image: url(Images/blueprint.jpg);
+	background-image: url('/nature-lab/images/blueprint.jpg');
 	background-size: cover; 
 	margin-top: 0px; 
 	height: 55vw;
@@ -659,23 +659,23 @@ td {
 }
 
 #existingsystems {
- 	background-image: url(Images/pipes.jpg);
+ 	background-image: url('/nature-lab/images/pipes.jpg');
 }
 
 #contaminatedsoil {
- 	background-image: url(Images/Contaminated-soils.png);
+ 	background-image: url('/nature-lab/images/Contaminated-soils.png');
 }
 
 #limiteddata {
- 	background-image: url(Images/rhodeislandmap.jpg);
+ 	background-image: url('/nature-lab/images/rhodeislandmap.jpg');
 }
 
 #budget {
- 	background-image: url(Images/coins.jpg);
+ 	background-image: url('/nature-lab/images/coins.jpg');
 }
 
 #engineering {
- 	background-image: url(Images/engineering.jpg);
+ 	background-image: url('/nature-lab/images/engineering.jpg');
 }
 
 th.larger {
